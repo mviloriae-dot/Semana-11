@@ -1,0 +1,8 @@
+Una plataforma tecnologica que promueve la participacion ciudadana necesita bases de datos, 
+autenticacion de usuarios y la proteccion de informacion porque genera confianza entre los miembros
+de la comunidad, organiza la informacion promoviendo el trabajo colaborativo manteniendo la 
+responsabilidad, la transparencia y credibilidad. Garantizando el orden y la seguridad en la plataforma, 
+protegiendo quien entra, sale o edita la informacion, asegurando datos sensibles para que no se expongan
+publicamente. Evitando fraudes, ataques o perdida de confianza en la plataforma, tambien, organizando
+las causas, apoyos o comentarios de los usuarios para rearfimar el compromiso de la participacion de la 
+comunidad digital. 

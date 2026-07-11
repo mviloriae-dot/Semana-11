@@ -1,0 +1,20 @@
+Entidad: Usuario.
+Campos principales: 
+- id
+- nombre
+- correo electronico
+- fecha
+Proposito:
+Identificar a las personas que participan en la plataforma, permitiendo asociar sus acciones
+como publicar causas o dar apoyos.
+
+Entidad: Comentario.
+Campos principales:
+- id
+- causa_id
+- usuario_id 
+- texto
+- fecha
+Proposito:
+Guardar las opiniones y aportes que los usuarios hacen sobre cada causa, fomentando la 
+interaccion y el debate comunitario. 

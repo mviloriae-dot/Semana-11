@@ -1,0 +1,6 @@
+El login es el proceso de autenticacion del usuario en una aplicacion usando su correo 
+electronico o su contraseña. 
+Algunas rutas deben estar protegidas porque permite asegurar que solo usuarios autorizados
+puedan ver o modificar datos importantes de la comunidad.
+No deben exponerse publicamente contraseñas, documentos de identidad, direcciones, telefonos,
+claves ni datos sensibles de la comunidad.
